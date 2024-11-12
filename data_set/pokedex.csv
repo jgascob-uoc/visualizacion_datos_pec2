@@ -1,0 +1,25 @@
+Number,Name,Type 1,Type 2,HP,Attack,Defense,Sp.Attack,Sp.Defense,Speed
+003,Venusaur,Grass,Poison,80,82,83,100,100,80
+006,Charizard,Fire,Flying,78,84,78,109,85,100
+009,Blastoise,Water,,79,83,100,85,105,78
+160,Feraligatr,Water,,85,105,100,79,83,78
+257,Blaziken,Fire,Fighting,80,120,70,110,70,80
+260,Swampert,Water,Ground,100,110,90,85,90,60
+389,Torterra,Grass,Ground,95,109,105,75,85,56
+392,Infernape,Fire,Fighting,76,104,71,104,71,108
+395,Empoleon,Water,Steel,84,86,88,111,101,60
+497,Serperior,Grass,,75,75,95,75,95,113
+500,Emboar,Fire,Fighting,110,123,65,100,65,65
+503,Samurott,Water,,95,100,85,108,70,70
+652,Chesnaught,Grass,Fighting,88,107,122,74,75,64
+655,Delphox,Fire,Psychic,75,69,72,114,100,104
+658,Greninja,Water,Dark,72,95,67,103,71,122
+724,Decidueye,Grass,Ghost,78,107,75,100,100,70
+727,Incineroar,Fire,Dark,95,115,90,80,90,60
+730,Primarina,Water,Fairy,80,74,74,126,116,60
+812,Rillaboom,Grass,,100,125,90,60,70,85
+815,Cinderace,Fire,,80,116,75,65,75,119
+818,Inteleon,Water,,70,85,65,125,65,120
+908,Meowscarada,Grass,Dark,76,110,70,81,70,123
+911,Skeledirge,Fire,Ghost,104,75,100,110,75,66
+914,Quaquaval,Water,Fighting,85,120,80,85,75,85
